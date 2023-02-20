@@ -109,3 +109,7 @@ venv.bak/
 *-solved.ipynb
 
 .idea/
+
+# other folders
+Examples
+cs490_python_tutorial
